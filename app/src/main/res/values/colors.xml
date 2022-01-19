@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_day">#795548</color>
+    <color name="primary_night">#805341</color>
+    <color name="primary_dark">#5D4037</color>
+    <color name="accent_light">#795548</color>
+    <color name="accent_dark">#975135</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface_night">#EEEbE7</color>
+</resources>

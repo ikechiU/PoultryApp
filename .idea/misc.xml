@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/account.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/account_record.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/add.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/checkup.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/checkup_chicken.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/custom_button.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/hen.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/home.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_bird.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_checkup.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_egg.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_eggs.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_logout.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/logout.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/record.xml" value="0.246875" />
+        <entry key="..\:/Users/ikech/AndroidStudioProjects/PoultryApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
