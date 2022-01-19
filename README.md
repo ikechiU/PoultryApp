@@ -1,4 +1,4 @@
-# Shift Schedule (OCP)
+# PoultryApp
 
 [![Android Build](https://img.shields.io/badge/Android%20Build-passing-brightgreen)](https://developer.android.com/)  [![Android Build](https://img.shields.io/badge/Android-JetpackCompose-blue)](https://developer.android.com/jetpack/compose)  [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)](https://kotlinlang.org/) [![MVVM ](https://img.shields.io/badge/Architecture-MVVM-brightgreen)](https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm) [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
 
@@ -26,7 +26,7 @@ To build this project, you require:
 <h2 align="left">Screenshots</h2>
 <h4 align="center">
 <img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553224/poultryapp/2022_01_19_01.10.39_umlywl.jpg" width="30%" vspace="10" hspace="10">
-<img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553218/poultryapp/2022_01_19_01.11.25_hbuyup.jpg" vspace="10" hspace="10">
+<img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553218/poultryapp/2022_01_19_01.11.25_hbuyup.jpg" width="30%" vspace="10" hspace="10">
 <img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553224/poultryapp/2022_01_19_01.11.39_v7ddgm.jpg" width="30%" vspace="10" hspace="10">
 <img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553222/poultryapp/2022_01_19_01.10.56_f0lfdt.jpg" width="30%" vspace="10" hspace="10">
 <img src="https://res.cloudinary.com/iykeafrica/image/upload/v1642553220/poultryapp/2022_01_19_01.11.16_dh41lk.jpg" width="30%" vspace="10" hspace="10"><br>
@@ -35,5 +35,3 @@ To build this project, you require:
 ## Author
 Ikechi Ucheagwu 
 
-## License
-This project is licensed under the Apache License 2.0 - See: http://www.apache.org/licenses/LICENSE-2.0.txt
