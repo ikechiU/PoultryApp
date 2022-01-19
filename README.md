@@ -1,6 +1,6 @@
 # PoultryApp
 
-[![Android Build](https://img.shields.io/badge/Android%20Build-passing-brightgreen)](https://developer.android.com/)  [![Android Build](https://img.shields.io/badge/Android-JetpackCompose-blue)](https://developer.android.com/jetpack/compose)  [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)](https://kotlinlang.org/) [![MVVM ](https://img.shields.io/badge/Architecture-MVVM-brightgreen)](https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm) [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
+[![Android Build](https://img.shields.io/badge/Android%20Build-passing-brightgreen)](https://developer.android.com/)  [![Android Jetpack Compose](https://img.shields.io/badge/Android-JetpackCompose-blue)](https://developer.android.com/jetpack/compose)  [![kotlin](https://img.shields.io/badge/Kotlin-1.4.xx-blue)](https://kotlinlang.org/) [![MVVM ](https://img.shields.io/badge/Architecture-MVVM-brightgreen)](https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm) [![coroutines](https://img.shields.io/badge/Kotlin-Coroutines-orange)](https://developer.android.com/kotlin/coroutines) [![Dagger Hilt](https://img.shields.io/badge/Dagger-Hilt-orange)](https://dagger.dev/hilt)
 
 This is a simple poultry app that stores daily records of inventories and accounts in a poultry farm. It provides a home screen where user can see the latest inventory and account record. All data are stored locally using Room persistence library .
 ## Features
@@ -19,8 +19,6 @@ To build this project, you require:
 *   [Kotlin Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 *   [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 *   [Dagger Hilt](https://dagger.dev/hilt)
-*   [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
-*   [Retrofit](https://square.github.io/retrofit)
 *   [Room](https://developer.android.com/training/data-storage/room)
 
 <h2 align="left">Screenshots</h2>
